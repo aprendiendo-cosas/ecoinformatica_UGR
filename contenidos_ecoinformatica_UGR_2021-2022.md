@@ -31,15 +31,27 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/5846725/files/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5846725.svg)](https://doi.org/10.5281/zenodo.5846725)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/tree/2021-2022)  
 ***
++ **Tarea: Construye un esquema que represente el flujo de trabajo de tu TFM. ** <img src="https://github.com/aprendiendo-cosas/ecoinformatica_UGR/raw/main/imagenes/tarea.png" alt="teoria" style="zoom:100%;" /> 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_flujo_trabajo_ecoinf_ugr/2021-2022/guion_ejercicio_workflow.html). 
+  + [Descargar material](https://zenodo.org/record/5851581/files/aprendiendo-cosas/A_flujo_trabajo_ecoinf_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5851581.svg)](https://doi.org/10.5281/zenodo.5851581)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_flujo_trabajo_ecoinf_ugr/tree/2021-2022)
+***
++ **Caracterización de la distribución espacial de la densidad de los pinares de repoblación en Sierra Nevada**
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/TP_densidad_pinar_ecoinf_UGR/2021__2022/guion_densidad_pinares.html)
+  + [Descargar material](https://zenodo.org/record/5905731/files/aprendiendo-cosas/TP_densidad_pinar_ecoinf_UGR-2021__2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905731.svg)](https://doi.org/10.5281/zenodo.5905731)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/TP_densidad_pinar_ecoinf_UGR/tree/2021__2022)  
 
-+ **Tarea: Categorías de amenaza de especies de la UICN.** <img src="https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/tarea.png" alt="tarea" style="zoom:100%;" /> 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/2020-2021/guion_actividad_UICN.html)
-  + [Descargar material](https://zenodo.org/record/5589145/files/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5589145.svg)](https://doi.org/10.5281/zenodo.5589145)
-  +  [Ver material en Github](https://github.com/aprendiendo-cosas/A_sp_amenazadas_ecologia_ccaa/tree/2020-2021)
++ **Ejercicio de reflexión sobre los mapas de densidad generados**
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/2021-2022/ejercicio_mapa_densidad.html)
+  + [Descargar material](https://zenodo.org/record/5905913/files/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905913.svg)](https://doi.org/10.5281/zenodo.5905913)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/tree/2021-2022)  
+
++ **Ejercicio: construir una base de datos relacional** A LA ESPERA DE COMPLETAR CON EL EJERCICIO RESUELTO
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/2021-2022/ejercicio_mapa_densidad.html)
+  + [Descargar material](https://zenodo.org/record/5905913/files/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905913.svg)](https://doi.org/10.5281/zenodo.5905913)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/tree/2021-2022)  
 
 ***
-
-
 
 
 
