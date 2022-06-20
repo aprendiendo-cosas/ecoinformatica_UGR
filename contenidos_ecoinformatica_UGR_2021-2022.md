@@ -26,8 +26,17 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/5703654/files/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5703654.svg)](https://doi.org/10.5281/zenodo.5703654)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2021-2022)  
 ***
+
++ **Introducción a la programación**
+  + [Presentación sobre introducción a la programación](https://gdfa.ugr.es/share/pedro/ecoinformatica_21-22/python.html)
+  + [Algunas normas de programación con R](https://gdfa.ugr.es/share/pedro/ecoinformatica_21-22/r.html)
+  + [Anaconda para instalar](https://drive.google.com/file/d/1uSM43HAJH6_z5V1_ZhsTGzmHyQyB7kUG/view?usp=sharing)
+
++ **[Tarea: Visualizar parcelas con Python](https://gdfa.ugr.es/share/pedro/ejercicio_parcelas.zip)**
+
+***
 + **Construcción de un flujo de trabajo para responder a nuestra pregunta**
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/2021-2022/guion_flujo_trabajo.html)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/47e09c7aab3db318bad75c4effd082d85a3ee448/guion_flujo_trabajo.html)
   + [Descargar material](https://zenodo.org/record/5846725/files/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5846725.svg)](https://doi.org/10.5281/zenodo.5846725)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/tree/2021-2022)  
 ***
@@ -41,23 +50,67 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/5905731/files/aprendiendo-cosas/TP_densidad_pinar_ecoinf_UGR-2021__2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905731.svg)](https://doi.org/10.5281/zenodo.5905731)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/TP_densidad_pinar_ecoinf_UGR/tree/2021__2022)  
 
-+ **Ejercicio de reflexión sobre los mapas de densidad generados**
++ **Tarea: Ejercicio de reflexión sobre los mapas de densidad generados** <img src="https://github.com/aprendiendo-cosas/ecoinformatica_UGR/raw/main/imagenes/tarea.png" alt="teoria" style="zoom:100%;" />
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/2021-2022/ejercicio_mapa_densidad.html)
   + [Descargar material](https://zenodo.org/record/5905913/files/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905913.svg)](https://doi.org/10.5281/zenodo.5905913)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/tree/2021-2022)  
 
-+ **Ejercicio: construir una base de datos relacional** A LA ESPERA DE COMPLETAR CON EL EJERCICIO RESUELTO
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/2021-2022/ejercicio_mapa_densidad.html)
-  + [Descargar material](https://zenodo.org/record/5905913/files/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5905913.svg)](https://doi.org/10.5281/zenodo.5905913)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_densidad_pinar_ecoinf_UGR/tree/2021-2022)  
++ **Ejercicio: construir una base de datos relacional**<img src="https://github.com/aprendiendo-cosas/ecoinformatica_UGR/raw/main/imagenes/tarea.png" alt="teoria" style="zoom:100%;" />
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_bbdd_ecoinf_ugr/2021-2022/ejercicio_bbdd.html)
+  + [Descargar material](https://zenodo.org/record/6161452/files/aprendiendo-cosas/A_bbdd_ecoinf_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6161452.svg)](https://doi.org/10.5281/zenodo.6161452)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_bbdd_ecoinf_ugr/tree/2021-2022)  
+***
++ **Caracterización de la producción primaria con NDVI y Google Earth Engine**
+  + Primera sesión
+    + [Jupyter utilizado en clase](https://drive.google.com/file/d/1FmRdu1HlTeZ5FaSvmRS4_WmgZddp9yPO/view?usp=drive_web&authuser=1)
+    + [Grabación de la clase](https://drive.google.com/file/d/1Xp4DmUh1B8JVNVw_p2Wh5O4qQsWn7QBs/view?usp=drive_web&authuser=1)
+
+  + Segunda sesión
+    + [Jupyter utilizado en clase](https://drive.google.com/file/d/1LzYZHcol62bIrEH7P8tE4pWDNpnfRrgK/view?usp=drive_web&authuser=1)
+    + [Grabación de la clase](https://drive.google.com/file/d/1Aj47N6lMR2tE6KBpfs1mYGVfDMWzOpZG/view?usp=drive_web&authuser=1)
+
+  + Tercera sesión
+    + [Jupyter utilizado en clase](https://drive.google.com/file/d/1D2V3QTeRuIyy5V-qd_l0rJrwFxjyXOLA/view?usp=drive_web&authuser=1)
+    + [Grabación de la clase](https://drive.google.com/file/d/1VbdjWuxohgR2e3bOyl0k9RioFGpnT0AT/view?usp=drive_web&authuser=1)
+  + [Guión original](https://aprendiendo-cosas.github.io/TP_NDVI_ecoinf_UGR/guidelines_workflow_GEE_R.html) en el que se inspira lo anterior. Esto en realidad no lo hemos usado este año. 
 
 ***
 
+**Caracterización de biodiversidad (índice de Shannon) de los pinares de repoblación**
+
++ Primera sesión: Datos primarios
+  + [Presentación sobre datos primarios de diversidad](https://drive.google.com/file/d/12_LbhnAUwcOZI53iNy3SBtbZ4qi-EfET/view?usp=drive_web&authuser=1)
+  + [Grabación de la clase](https://drive.google.com/file/d/1M2dCyQUoqMrC5rH7y7VTsxzRAYt5dQyY/view?usp=drive_web&authuser=1)
++ Segunda sesión: Bases de datos de presencias
+  + [Presentación sobre Elysia](https://drive.google.com/file/d/1avkSPtU0VN8fwpl1giia12ZMKmOdjo_y/view?usp=drive_web&authuser=1)
+  + [Descarga de Elysia](https://drive.google.com/file/d/1vr4Wnm7iUWhKFf8CLou17O1Cm1_-lDFF/view?usp=drive_web&authuser=1)
++ Tercera sesión: generación del mapa de biodiversidad.
+  + [Jupyter utilizado en clase](https://drive.google.com/file/d/1tl5r4pxP37KEwR4Lfpm7JDnna14_wyzL/view?usp=drive_web&authuser=1)
+  + [Mapa de ocurrencias de especies](https://drive.google.com/file/d/1c17k_ardxH-P6xd8S8aoKzrYmVDI5h9O/view?usp=drive_web&authuser=1)
+  + [Malla utilizada para generar el mapa](https://drive.google.com/file/d/1GrD6EffwApk568OB-cZgdWRWoQuOv3iD/view?usp=drive_web&authuser=1)
+  + [Vídeo de la sesión](https://drive.google.com/file/d/1YZY2S0tdBIAN9GdvZEjYEYflymAZ_AfJ/view?usp=drive_web&authuser=1)
+
+***
+
++ **Incorporación de nuevas variables al trabajo final** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr/2021-2022/guion_nuevas_variables.html)
+  + [Descargar material](https://zenodo.org/record/6345132/files/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6345132.svg)](https://doi.org/10.5281/zenodo.6345132)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr/tree/2021-2022) 
+***
+
++ **Reproducibilidad** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/TP_reproducibilidad_ecoinf_UGR/2021-2022/guion_reproducibilidad.html)
+  + [Descargar material](https://zenodo.org/record/6345227/files/aprendiendo-cosas/TP_reproducibilidad_ecoinf_UGR-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6345227.svg)](https://doi.org/10.5281/zenodo.6345227)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/TP_reproducibilidad_ecoinf_UGR/tree/2021-2022) 
+  
+  ***
+  
+  **Integración de resultados** 
 
 
-
-
-
++ + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr/2021__2022/integracion_variables.html)
+  + [Descargar material](https://zenodo.org/record/6371167/files/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr-2021__2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6371167.svg)](https://doi.org/10.5281/zenodo.6371167)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr/tree/2021__2022) 
 
 
 

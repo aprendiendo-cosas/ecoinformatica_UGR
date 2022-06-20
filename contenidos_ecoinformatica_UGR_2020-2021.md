@@ -21,8 +21,23 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/5655506/files/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5655506.svg)](https://doi.org/10.5281/zenodo.5655506)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/tree/2020-2021) 
 ***
-+ + 
+
++ **Incorporación de nuevas variables al trabajo final** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr/2020--2021/guion_nuevas_variables.html)
+  + [Descargar material](https://zenodo.org/record/5949174/files/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr-2020--2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5949174.svg)](https://doi.org/10.5281/zenodo.5949174)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_nuevas_variables_ecoinf_ugr/tree/2020--2021) 
+
 ***
++ **Integración de variables para obtener un resultado único** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr/2020__2021/integracion_variables.html)
+  + [Descargar material](https://zenodo.org/record/5997640/files/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr-2020__2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5997640.svg)](https://doi.org/10.5281/zenodo.5997640)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/TP_integracion_final_ecoinf_ugr/tree/2020__2021) 
+
+***
++ **Cartografía de vegetación a escala de detalle de la REDIAM** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_vege_rediam_ecoinf_ugr/2020-2021/cartografia_vegetacion.html)
+  + [Descargar material](https://zenodo.org/record/6227057/files/aprendiendo-cosas/T_vege_rediam_ecoinf_ugr-2020-2021.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6227057.svg)](https://doi.org/10.5281/zenodo.6227057)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_vege_rediam_ecoinf_ugr/tree/2020-2021) 
 
 
 
