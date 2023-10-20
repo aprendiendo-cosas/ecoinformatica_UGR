@@ -1,6 +1,6 @@
 # Relación de contenidos de la asignatura "Ecoinformática: Ciclo de gestión del dato", del Máster de [Conservación, Gestión y Restauración de la Biodiversidad](https://masteres.ugr.es/biodiversidad/) (UGR)
 
-### Curso 2021-2022
+### Curso 2022-2023
 
 
 
@@ -11,22 +11,36 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 + Descargar material: En este enlace se descarga un archivo .zip con todo el material del tema seleccionado. Así no tienes que ir descargando las cosas una a una. Este enlace estará siempre disponible. La imagen que hay a la derecha del enlace y que empieza por "DOI" muestra el identificador único de este acto docente dentro de la red [Zenodo](https://zenodo.org/). Por favor, usa este código en caso de que quieras citar el material enlazado.
 + Ver material en Github: Muestra el mismo contenido de antes, pero tal y como se despliega en el repositorio de código Github. Quizás esta opción es la menos útil para lo estudiantes. Este enlace estará siempre disponible.
 
-
+Este curso ha tenido dos novedades esenciales. En primer lugar contamos con un nuevo fichaje entre los profesores. El Dr. Antonio Jesús Pérez Luque se une a nuestro equipo desde la Estación Experimental del Zaidín (CSIC). Su amplísima experiencia en manejo de datos primarios y análisis de información sobre biodiversidad se suman al acervo de conocimientos que aportamos a los estudiantes. También disfrutaremos de su buenagentismo :) ....
 
 
 ## *Secuencia de temas abordados* 
 
 + **Introducción a la asignatura.** Curro
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/2021-2022/introduccion_ecoinformatica.html)
-  + [Descargar material](https://zenodo.org/record/5655528/files/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5655528.svg)](https://doi.org/10.5281/zenodo.5655528)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/tree/2021-2022) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/2022-2023/introduccion_ecoinformatica.html)
+  + [Descargar material](https://zenodo.org/record/7318541/files/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7318541.svg)](https://doi.org/10.5281/zenodo.7318541)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/tree/2022_2023) 
 ***
 + **Generalidades sobre pinares de repoblación**. Curro
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/2021-2022/guion_contexto_ecologico_pinares.html)
-  + [Descargar material](https://zenodo.org/record/5703654/files/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr-2021-2022.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5703654.svg)](https://doi.org/10.5281/zenodo.5703654)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2021-2022)  
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/2022_2023/guion_contexto_ecologico_pinares.html)
+  + [Descargar material](https://zenodo.org/record/7314350/files/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr-2022-2023.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7314350.svg)](https://doi.org/10.5281/zenodo.7314350)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2022-2023)  
 ***
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 + **Introducción a la programación**. Pedro
   + [Presentación sobre introducción a la programación](https://gdfa.ugr.es/share/pedro/ecoinformatica_21-22/python.html)
   + [Algunas normas de programación con R](https://gdfa.ugr.es/share/pedro/ecoinformatica_21-22/r.html)
